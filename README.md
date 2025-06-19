@@ -1,0 +1,1 @@
+Since this project is currently undergoing the patent application process, the mymodel.py file has been temporarily encrypted for protection. All source code will be made publicly available after patent authorization is completed.
